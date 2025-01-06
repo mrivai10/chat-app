@@ -28,3 +28,10 @@
     ```
 - Ulangi langkah 3- 4 sebanyak Client yang diinginkan
 - Masukkan username lalu tekan tombol Masukkan
+
+## Tampilan Aplikasi
+<p>
+  <img src="img/login.jpg" alt="login" height="400">
+  <img src="img/chat.jpg" alt="chat" height="400">
+  <img src="img/enkripsi.jpg" alt="enkripsi" height="400">
+</p>
