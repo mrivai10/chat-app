@@ -31,7 +31,7 @@
 
 ## Tampilan Aplikasi
 <p>
-  <img src="img/login.jpg" alt="login" height="400">
-  <img src="img/chat.jpg" alt="chat" height="400">
-  <img src="img/enkripsi.jpg" alt="enkripsi" height="400">
+  <img src="img/login.jpg" alt="login" height="200">
+  <img src="img/chat.jpg" alt="chat" height="200">
+  <img src="img/enkripsi.jpg" alt="enkripsi" height="200">
 </p>
